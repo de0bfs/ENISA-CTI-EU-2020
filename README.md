@@ -1,4 +1,5 @@
-# ENISA-CTI-EU-2020
+# Brushing up on STIX & ATT&CK - Exploiting the CTI Models” 
+### ENISA-CTI-EU-2020
 ENISA CTI-EU Conference held in Brussels on 30th 31st JAN 2020
 During this talk I presented my view on STIX and its design and architecture and how it can be used beyond just a sharing standard. 
 ### Key takeaways:
